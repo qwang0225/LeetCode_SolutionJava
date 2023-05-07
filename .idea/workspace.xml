@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24e04407-3d14-4800-8001-04a67573e7b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode_JavaSolution.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/buy_and_sell_stockQ121/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/buy_and_sell_stockQ121/Solution2.java" afterDir="false" />
+    <list default="true" id="24e04407-3d14-4800-8001-04a67573e7b0" name="Changes" comment="solution2 for Q121, two pointers from the end">
+      <change afterPath="$PROJECT_DIR$/src/Linkedlist/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +34,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -50,6 +48,42 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.SolutionTest">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Linkedlist.addTwoNumQ2.Solution" />
+      <module name="Leetcode_JavaSolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Linkedlist.addTwoNumQ2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode_JavaSolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Linkedlist.merge_two_sorted_list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Linkedlist.merge_two_sorted_list" />
+      <option name="MAIN_CLASS_NAME" value="Linkedlist.merge_two_sorted_list.SolutionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SolutionTest" />
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,11 +92,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683469859541</updated>
-      <workItem from="1683469860652" duration="2223000" />
+      <workItem from="1683469860652" duration="5638000" />
     </task>
+    <task id="LOCAL-00001" summary="solution1 for Q121, two pointers from beginning">
+      <created>1683472425430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683472425430</updated>
+    </task>
+    <task id="LOCAL-00002" summary="solution2 for Q121, two pointers from the end">
+      <created>1683472453757</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683472453757</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="solution1 for Q121, two pointers from beginning" />
+    <MESSAGE value="solution2 for Q121, two pointers from the end" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution2 for Q121, two pointers from the end" />
   </component>
 </project>
